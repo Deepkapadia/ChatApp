@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>320726014484-v6m27l4avak14sqn9nidtbgt07qnkinj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.320726014484-v6m27l4avak14sqn9nidtbgt07qnkinj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyArxSeIRDS76o_AzMpOavOOgZoKqj14PII</string>
+	<key>GCM_SENDER_ID</key>
+	<string>320726014484</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.DeepKapadia.Flash-Chat</string>
+	<key>PROJECT_ID</key>
+	<string>chatappsample-77c2e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatappsample-77c2e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:320726014484:ios:2d3df8dff09d0dc2</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatappsample-77c2e.firebaseio.com</string>
+</dict>
+</plist>
